@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "akari_takaishi.tobj" 
+	texture_name : "texture" 
+} 

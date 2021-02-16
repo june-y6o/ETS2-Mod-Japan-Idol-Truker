@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "kanako_momota.tobj" 
+	texture_name : "texture" 
+} 

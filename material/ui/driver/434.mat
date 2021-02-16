@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "kaho.tobj" 
+	texture_name : "texture" 
+} 

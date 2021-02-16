@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "ayaka_nishiwaki.tobj" 
+	texture_name : "texture" 
+} 

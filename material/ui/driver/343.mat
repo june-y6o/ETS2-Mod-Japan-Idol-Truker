@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "miyu_matsuo.tobj" 
+	texture_name : "texture" 
+} 

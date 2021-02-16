@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "seiko_matsuda.tobj" 
+	texture_name : "texture" 
+} 

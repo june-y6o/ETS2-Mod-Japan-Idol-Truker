@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "namie _amuro.tobj" 
+	texture_name : "texture" 
+} 

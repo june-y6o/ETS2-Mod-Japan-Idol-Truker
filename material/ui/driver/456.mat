@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "mai_hosho.tobj" 
+	texture_name : "texture" 
+} 

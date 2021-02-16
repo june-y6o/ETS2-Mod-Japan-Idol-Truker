@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "rie_miyazawa.tobj" 
+	texture_name : "texture" 
+} 

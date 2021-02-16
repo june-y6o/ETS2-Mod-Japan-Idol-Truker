@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "momoe_yamaguchi.tobj" 
+	texture_name : "texture" 
+} 

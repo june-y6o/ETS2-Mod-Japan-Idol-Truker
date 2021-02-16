@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "rena_matsui.tobj" 
+	texture_name : "texture" 
+} 

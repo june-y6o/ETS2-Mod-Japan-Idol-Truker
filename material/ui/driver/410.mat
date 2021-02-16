@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "youko_minamino.tobj" 
+	texture_name : "texture" 
+} 

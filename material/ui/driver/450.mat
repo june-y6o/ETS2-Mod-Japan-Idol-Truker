@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "rena_nonen.tobj" 
+	texture_name : "texture" 
+} 

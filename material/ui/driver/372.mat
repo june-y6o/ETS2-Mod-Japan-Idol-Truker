@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "mizuki_fukumura.tobj" 
+	texture_name : "texture" 
+} 

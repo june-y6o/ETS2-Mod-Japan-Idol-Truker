@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "asami_konno.tobj" 
+	texture_name : "texture" 
+} 

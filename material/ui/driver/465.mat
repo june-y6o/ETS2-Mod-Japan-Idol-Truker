@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "rina_kawaei.tobj" 
+	texture_name : "texture" 
+} 

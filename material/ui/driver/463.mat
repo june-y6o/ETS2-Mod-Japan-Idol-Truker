@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "rino_sashihara.tobj" 
+	texture_name : "texture" 
+} 

@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "tsubasa_honda.tobj" 
+	texture_name : "texture" 
+} 

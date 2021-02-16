@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "aya_matsuura.tobj" 
+	texture_name : "texture" 
+} 

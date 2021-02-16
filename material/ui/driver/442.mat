@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "inagakisaki_sakura.tobj" 
+	texture_name : "texture" 
+} 

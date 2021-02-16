@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "tomoe_shinohara.tobj" 
+	texture_name : "texture" 
+} 

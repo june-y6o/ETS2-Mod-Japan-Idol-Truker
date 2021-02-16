@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "ayame_tsutsui.tobj" 
+	texture_name : "texture" 
+} 

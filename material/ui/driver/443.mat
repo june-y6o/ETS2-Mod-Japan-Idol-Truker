@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "hinako_sakurai.tobj" 
+	texture_name : "texture" 
+} 

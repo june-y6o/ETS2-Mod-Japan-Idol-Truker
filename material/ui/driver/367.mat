@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "sakura_oda.tobj" 
+	texture_name : "texture" 
+} 

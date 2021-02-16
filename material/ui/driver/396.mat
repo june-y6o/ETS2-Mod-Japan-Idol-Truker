@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "yoshie_kashiwabara.tobj" 
+	texture_name : "texture" 
+} 

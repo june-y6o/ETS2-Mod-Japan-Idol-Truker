@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "ran_ito.tobj" 
+	texture_name : "texture" 
+} 

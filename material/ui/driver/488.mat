@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "mai_fukagawa.tobj" 
+	texture_name : "texture" 
+} 

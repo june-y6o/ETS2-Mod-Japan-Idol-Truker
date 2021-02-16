@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "haruna_kawaguchi.tobj" 
+	texture_name : "texture" 
+} 

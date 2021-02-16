@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "mei_yamazaki.tobj" 
+	texture_name : "texture" 
+} 

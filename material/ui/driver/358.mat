@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "akane_haga.tobj" 
+	texture_name : "texture" 
+} 

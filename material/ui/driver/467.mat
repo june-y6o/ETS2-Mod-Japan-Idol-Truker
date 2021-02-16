@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "haruka_shimazaki.tobj" 
+	texture_name : "texture" 
+} 

@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "ryouko_hirosue.tobj" 
+	texture_name : "texture" 
+} 

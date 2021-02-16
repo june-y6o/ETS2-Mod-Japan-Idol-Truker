@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "masami_nagasawa.tobj" 
+	texture_name : "texture" 
+} 

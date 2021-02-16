@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "kaori_iida.tobj" 
+	texture_name : "texture" 
+} 

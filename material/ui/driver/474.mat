@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "maki_goto.tobj" 
+	texture_name : "texture" 
+} 

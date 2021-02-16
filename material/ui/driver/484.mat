@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "mari_yaguchi.tobj" 
+	texture_name : "texture" 
+} 

@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "akina_nakamori.tobj" 
+	texture_name : "texture" 
+} 
