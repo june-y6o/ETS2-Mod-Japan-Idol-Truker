@@ -31,3 +31,5 @@ Mod for **Euro Truck Simulator 2**
   - ももいろクローバーZ
   - Perfume
   - 伝説のアイドル #2
+  - モー娘。黄金期、OB、その他
+  - おニャン子クラブ

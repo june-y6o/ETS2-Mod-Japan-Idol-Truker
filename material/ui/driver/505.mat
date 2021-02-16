@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "minayo_watanabe.tobj" 
+	texture_name : "texture" 
+} 

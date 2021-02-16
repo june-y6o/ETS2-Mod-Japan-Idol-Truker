@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "akiko_ikuina.tobj" 
+	texture_name : "texture" 
+} 

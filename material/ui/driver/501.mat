@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "sayuri_kokusho.tobj" 
+	texture_name : "texture" 
+} 
