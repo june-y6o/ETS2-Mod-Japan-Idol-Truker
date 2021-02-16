@@ -9,6 +9,9 @@ Mod for **Euro Truck Simulator 2**
   - 標準ドライバー（341人まで）は性別を維持し、これまでのゲームデータでも性転換が発生しません
   - 拡張追加ドライバーについては性別を留意しません
 
+### ダウンロード
+－[Releases](https://github.com/june-y6o/ETS2-Mod-Japan-Idol-Truker/releases)
+
 ---
 ## 不具合・要望
 
@@ -27,6 +30,7 @@ Mod for **Euro Truck Simulator 2**
   - 乃木坂46（2021/01時点の研究生追加）
   - 伝説のアイドル
 - 0.0.6
+  - (管理リポジトリ移動)
   - モーニング娘。
   - ももいろクローバーZ
   - Perfume
