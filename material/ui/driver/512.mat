@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "aya_sugimoto.tobj" 
+	texture_name : "texture" 
+} 

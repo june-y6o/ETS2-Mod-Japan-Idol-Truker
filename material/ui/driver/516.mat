@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "yasuko_sawaguchi.tobj" 
+	texture_name : "texture" 
+} 
