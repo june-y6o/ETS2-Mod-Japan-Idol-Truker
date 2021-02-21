@@ -1,6 +1,6 @@
 # JPN Idol Trucker
 
-![icon](https://june-y6o.github.io/ETS2-Mod-Japan-Idol-Truker/raw/master/icon.jpg)
+![icon](icon.jpg)
 
 ## 概要
 Mod for **Euro Truck Simulator 2**
