@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "kana_momonogi.tobj" 
+	texture_name : "texture" 
+} 

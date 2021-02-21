@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "tina_yunoki.tobj" 
+	texture_name : "texture" 
+} 

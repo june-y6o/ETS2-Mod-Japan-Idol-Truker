@@ -39,3 +39,4 @@ Mod for **Euro Truck Simulator 2**
   - おニャン子クラブ
 - 0.0.7
   - そういえば...なアイドル
+  - AVアイドル
