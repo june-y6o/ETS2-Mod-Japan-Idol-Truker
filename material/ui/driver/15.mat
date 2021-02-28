@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "erii_chiba.dds" 
+	texture_name : "texture" 
+} 

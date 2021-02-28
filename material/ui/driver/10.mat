@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "minami_sato.dds" 
+	texture_name : "texture" 
+} 

@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "momojiro_hoshi.tobj" 
+	texture_name : "texture" 
+} 

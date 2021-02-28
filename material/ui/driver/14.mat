@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "yui_yokoyama.dds" 
+	texture_name : "texture" 
+} 

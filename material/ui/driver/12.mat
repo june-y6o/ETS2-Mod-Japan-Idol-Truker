@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "manaka_taguchi.dds" 
+	texture_name : "texture" 
+} 

@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "widower_jonathan.tobj" 
+	texture_name : "texture" 
+} 

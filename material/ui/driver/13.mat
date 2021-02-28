@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "miu_shitao.dds" 
+	texture_name : "texture" 
+} 

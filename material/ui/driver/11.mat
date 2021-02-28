@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "sora_honda.dds" 
+	texture_name : "texture" 
+} 
